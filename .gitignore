@@ -23,5 +23,8 @@ _testmain.go
 *.test
 *.prof
 
-#IDEA project file
+# IDEA project file
 .idea
+
+# private config files
+conf/database.conf
