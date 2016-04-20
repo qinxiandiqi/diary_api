@@ -1,1 +1,2 @@
 # copy this config file to conf folder and rename it to database.conf
+mysqlconfig = "user:password@host/database?charset=utf8loc=Asia%2FShanghai"
